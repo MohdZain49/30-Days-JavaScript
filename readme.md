@@ -1,0 +1,1 @@
+This repository is for 30 days chanllengs of JavaScript.
